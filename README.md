@@ -1,16 +1,7 @@
-# flutter_basic
+# Flutter básico
 
-A new Flutter project.
+Este repositório contém uma série de exercícios de Flutter desenvolvidos em conjunto com o professor durante as aulas de programação mobile. Aqui você encontrará uma variedade de atividades resolvidas que abordam diferentes aspectos do desenvolvimento de aplicativos móveis utilizando o framework Flutter.
 
-## Getting Started
+## Objetivo
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+O objetivo deste repositório é poder praticar minhas habilidades em Flutter e aprofundar meus conhecimentos na construção de aplicativos móveis. Os exercícios abrangem tópicos como UI/UX, interatividade, integração com APIs, gerenciamento de estado e muito mais.
