@@ -14,6 +14,9 @@ import 'exercicios/exe11/exe11_page.dart';
 import 'exercicios/exe12/exe12_page.dart';
 import 'exercicios/exe13/exe13_page.dart';
 import 'exercicios/exe14/exercicio14.dart';
+import 'exercicios/exe15/exercicio15.dart';
+import 'exercicios/exe16/exercicio16.dart';
+import 'package:flutter_basic/exercicios/exe17/exercicio17.dart';
 
 void main() {
   runApp(MyApp());
@@ -38,6 +41,9 @@ class MyApp extends StatelessWidget {
       '/Exe12': (context) => Exe12Page(),
       '/Exe13': (context) => Exe13Page(),
       '/Exe14': (context) => Exe14Page(),
+      '/Exe15': (context) => Exe15Page(),
+      '/Exe16': (context) => Exe16Page(),
+      '/Exe17': (context) => Exe17Page(),
     });
   }
 }

@@ -98,6 +98,24 @@ class HomePage extends StatelessWidget {
                 Navigator.popAndPushNamed(context, '/Exe14');
               },
             ),
+            ListTile(
+              title: Text("Exe15"),
+              onTap: () {
+                Navigator.popAndPushNamed(context, '/Exe15');
+              },
+            ),
+            ListTile(
+              title: Text("Exe16"),
+              onTap: () {
+                Navigator.popAndPushNamed(context, '/Exe16');
+              },
+            ),
+            ListTile(
+              title: Text("Exe17"),
+              onTap: () {
+                Navigator.popAndPushNamed(context, '/Exe17');
+              },
+            ),
           ],
         ),
       ),
